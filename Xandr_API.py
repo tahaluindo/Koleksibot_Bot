@@ -5,12 +5,12 @@ import json
 
 BASEURL = 'https://api.appnexus.com/auth'
 AUTHTOKEN = None
-USERNAME = 'Test_Account_Janina'
-PASSWORD = 'Test123456!'
+USERNAME = 'aregrottum'
+PASSWORD = 'axx54TW#'
 
 report_type = 'seller_brand_review'
-start_date = '2019-09-01'
-end_date = '2019-10-01'
+start_date = '2022-03-08'
+end_date = '2023-03-08'
 columns: list = [
     'day', "imp_type_id", 'imp_type',
     'imps', 'revenue',
